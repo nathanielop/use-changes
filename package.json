@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "react-use-changes",
+  "version": "0.0.1",
+  "description": "A modern alternative to useState for deeply nested objects, with support for undo and redo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielop/use-changes.git"
+  },
+  "keywords": [
+    "react-hooks",
+    "hooks"
+  ],
+  "author": "Nathaniel Pendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanielop/use-changes/issues"
+  }
+}
